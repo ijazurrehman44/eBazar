@@ -1,0 +1,14 @@
+C:\Users\Ijaz Afridi\Projects\eBazar\eBazar.Services\bin\Debug\eBazar.Services.dll.config
+C:\Users\Ijaz Afridi\Projects\eBazar\eBazar.Services\bin\Debug\eBazar.Services.dll
+C:\Users\Ijaz Afridi\Projects\eBazar\eBazar.Services\bin\Debug\eBazar.Services.pdb
+C:\Users\Ijaz Afridi\Projects\eBazar\eBazar.Services\bin\Debug\eBazar.Database.dll
+C:\Users\Ijaz Afridi\Projects\eBazar\eBazar.Services\bin\Debug\eBazar.Entities.dll
+C:\Users\Ijaz Afridi\Projects\eBazar\eBazar.Services\bin\Debug\EntityFramework.dll
+C:\Users\Ijaz Afridi\Projects\eBazar\eBazar.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ijaz Afridi\Projects\eBazar\eBazar.Services\bin\Debug\eBazar.Database.pdb
+C:\Users\Ijaz Afridi\Projects\eBazar\eBazar.Services\bin\Debug\eBazar.Entities.pdb
+C:\Users\Ijaz Afridi\Projects\eBazar\eBazar.Services\bin\Debug\EntityFramework.xml
+C:\Users\Ijaz Afridi\Projects\eBazar\eBazar.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ijaz Afridi\Projects\eBazar\eBazar.Services\obj\Debug\eBazar.Services.csprojResolveAssemblyReference.cache
+C:\Users\Ijaz Afridi\Projects\eBazar\eBazar.Services\obj\Debug\eBazar.Services.dll
+C:\Users\Ijaz Afridi\Projects\eBazar\eBazar.Services\obj\Debug\eBazar.Services.pdb

@@ -1,0 +1,5 @@
+C:\Users\Ijaz Afridi\Projects\eBazar\eBazar.Entities\bin\Debug\eBazar.Entities.dll
+C:\Users\Ijaz Afridi\Projects\eBazar\eBazar.Entities\bin\Debug\eBazar.Entities.pdb
+C:\Users\Ijaz Afridi\Projects\eBazar\eBazar.Entities\obj\Debug\eBazar.Entities.dll
+C:\Users\Ijaz Afridi\Projects\eBazar\eBazar.Entities\obj\Debug\eBazar.Entities.pdb
+C:\Users\Ijaz Afridi\Projects\eBazar\eBazar.Entities\obj\Debug\eBazar.Entities.csprojResolveAssemblyReference.cache

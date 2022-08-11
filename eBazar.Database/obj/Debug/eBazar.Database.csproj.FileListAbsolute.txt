@@ -1,0 +1,14 @@
+C:\Users\Ijaz Afridi\Projects\eBazar\eBazar.Database\bin\Debug\eBazar.Database.dll.config
+C:\Users\Ijaz Afridi\Projects\eBazar\eBazar.Database\bin\Debug\eBazar.Database.dll
+C:\Users\Ijaz Afridi\Projects\eBazar\eBazar.Database\bin\Debug\eBazar.Database.pdb
+C:\Users\Ijaz Afridi\Projects\eBazar\eBazar.Database\bin\Debug\eBazar.Entities.dll
+C:\Users\Ijaz Afridi\Projects\eBazar\eBazar.Database\bin\Debug\EntityFramework.dll
+C:\Users\Ijaz Afridi\Projects\eBazar\eBazar.Database\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ijaz Afridi\Projects\eBazar\eBazar.Database\bin\Debug\eBazar.Entities.pdb
+C:\Users\Ijaz Afridi\Projects\eBazar\eBazar.Database\bin\Debug\EntityFramework.xml
+C:\Users\Ijaz Afridi\Projects\eBazar\eBazar.Database\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ijaz Afridi\Projects\eBazar\eBazar.Database\obj\Debug\eBazar.Database.csprojResolveAssemblyReference.cache
+C:\Users\Ijaz Afridi\Projects\eBazar\eBazar.Database\obj\Debug\eBazar.Database.dll
+C:\Users\Ijaz Afridi\Projects\eBazar\eBazar.Database\obj\Debug\eBazar.Database.pdb
+C:\Users\Ijaz Afridi\Projects\eBazar\eBazar.Database\obj\Debug\eBazar.Database.Migrations.initialized.resources
+C:\Users\Ijaz Afridi\Projects\eBazar\eBazar.Database\obj\Debug\eBazar.Database.csproj.GenerateResource.Cache
